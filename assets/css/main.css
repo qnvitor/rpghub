@@ -3369,7 +3369,7 @@ input, select, textarea {
 		}
 			hr {
 				border: 0;
-				border-bottom: solid 3px rgba(51, 184, 236, 0.75);
+				border-bottom: solid 3px #33b8ecbf;
 				margin: 2em 0; }
 				
 			hr.major {
